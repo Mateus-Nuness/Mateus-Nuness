@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Mateus! 👋
 
-<!--
-**Mateus-Nuness/Mateus-Nuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graduando em Análise e Desenvolvimento de Sistemas — Estácio
 
-Here are some ideas to get you started:
+Profissional de Tecnologia com foco em Engenharia de Software Backend. Utilizo minha experiência em infraestrutura de TI, redes e segurança corporativa para construir APIs robustas, seguras e eficientes utilizando JavaScript e Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 SOCIAL
+
+<a href="https://linkedin.com/in/mateus-henrique-nunes-de-araujo-bb12522b7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
+### 🛠️ Stacks & Ferramentas
+- **Linguagens:** JavaScript (ES6+), Lógica e Algoritmos
+- **Backend:** Node.js, Express
+- **Bancos de Dados:** SQL (PostgreSQL / MySQL)
+- **Ferramentas:** Git, GitHub, Linux, Infraestrutura de Redes e VPNs
