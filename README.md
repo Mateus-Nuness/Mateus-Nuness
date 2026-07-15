@@ -18,4 +18,3 @@ Profissional de Tecnologia com foco em Engenharia de Software Backend. Utilizo m
 - **Linguagens:** JavaScript (ES6+), Lógica e Algoritmos
 - **Backend:** Node.js, Express
 - **Bancos de Dados:** SQL (PostgreSQL / MySQL)
-- **Ferramentas:** Git, GitHub, Linux, Infraestrutura de Redes e VPNs
