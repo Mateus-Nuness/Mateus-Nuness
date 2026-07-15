@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus! 👋
 
-### Graduando em Análise e Desenvolvimento de Sistemas — Estácio
+### Formado em Análise e Desenvolvimento de Sistemas — Estácio
 
 Profissional de Tecnologia com foco em Engenharia de Software Backend. Utilizo minha experiência em infraestrutura de TI, redes e segurança corporativa para construir APIs robustas, seguras e eficientes utilizando JavaScript e Node.js.
 
